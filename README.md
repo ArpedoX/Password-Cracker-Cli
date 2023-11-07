@@ -9,4 +9,4 @@
 4. Run 'dart pub get' in terminal
 5. Run 'dart run' in terminal
 
-###### 💫 Alternatively you can copy /lib/main.dart and run it from dartdev.pad
+#### 💫 Alternatively you can copy /lib/main.dart and run it from [dartpad.dev](https://dartpad.dev/)
