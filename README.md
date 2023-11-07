@@ -6,8 +6,8 @@
 1. [Download dart](https://dart.dev/get-dart)
 2. Clone the repository locally `git clone https://github.com/UF7K00/Password-Cracker-Cli.git`
 3. Open the project in terminal
-4. Run 'dart pub get' in terminal
-5. Run 'dart run' in terminal
+4. Run `dart pub get` in terminal
+5. Run `dart run` in terminal
 
 ## ❓ How it works
 The user is asked to enter characters that the programme can use (symbols, numbers and letters), for example, "1234567890", "+</?*" or "abcdeABCDE".
