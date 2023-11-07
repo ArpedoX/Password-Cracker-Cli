@@ -8,3 +8,5 @@
 3. Open the project in terminal
 4. Run 'dart pub get' in terminal
 5. Run 'dart run' in terminal
+
+### 💫 Alternatively you can copy /lib/main.dart and run it from dartdev.pad
